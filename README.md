@@ -23,8 +23,17 @@ were qualitatively evaluated based on their output relevance and accuracy. The f
 that the Multi-QA model is optimal for identifying relevant countries and content, while TF-IDF
 excels in pinpointing pertinent sections.
 ## Stucture of the ChatBot
+
+![structure](chatbot/structure.png)
+
 ## Ontology of United States (One country of many others) 
+
+![ontology](ontology.png)
+
 ## Result 
+
+![structure](chatbot/model_comparison.png)
+
 ## Conclusion & Recommendation
 Throughout our research, which involved visualizing ontologies for 158 countries' data policies
 and identifying the best models for country, section, and context relevancy, we have identified
@@ -70,4 +79,5 @@ unprecedented speed and precision, thereby revolutionizing the way information i
 and utilized in decision-making processes. This study paves the way for future innovations in the
 field, heralding a new era of intelligent information systems that are more intuitive, responsive,
 and user-centric.
-
+## [Python Code](chatbot/python_code)
+## [Full Research Report](chatbot/full_report_pdf)
