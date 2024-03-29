@@ -11,6 +11,10 @@ This research paper introduces 'Alex', an innovative world data policy chatbot, 
 promptly equip stakeholders with pertinent global data regulation information. Alex is designed
 to narrow the informational divide and simplify legal data accessibility, thereby enhancing
 decision-making for business owners and stakeholders alike.
+
+## Data Source
+The data used is from DLA Piper's Data [Protection Laws of the World Page](https://www.dlapiperdataprotection.com/index.html?t=about&c=AL). The dataset is a pdf of 25.4 MB. 
+
 ## Research 
 In our research, we leveraged the hierarchical structure of ontologies as our logical foundation
 for developing the chatbot. The dataset employed encompasses a comprehensive array of data
